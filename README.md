@@ -8,3 +8,6 @@ This is totally a interactive dashboard so that my client can find the specific 
 We have used SQL Server and Microsoft SQL Server Management Studio version 19 to import the data in csv format and have analyzed it.
 Then we have connected Excel with SQL Server to get the data and perform Data Analysis.
 We have used Pivot to create various charts to find out various insights and trends.
+
+# Other Details
+I have attached the required report data.
